@@ -1,1 +1,1 @@
-{"version":"1.3.0", "notes":"Major Update", "changes":"New stress effects, new relief items, major optimizations", "discordLink":"https://discord.gg/U5usNmmcSe"}
+{"version":"1.3.0", "notes":"Major Update", "changes":"New stress effects, new relief items, major optimizations", "discordLink":"https://discord.gg/qN4f3YjctV"}
